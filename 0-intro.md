@@ -1,9 +1,9 @@
 ---
-title: Prep
+title: Intro
 nav: true
 ---
 
-# Workshop Prep and Downloads 
+# Introduction to the Library
 
 
 1. Bring a laptop with Excel installed or use one of ours
