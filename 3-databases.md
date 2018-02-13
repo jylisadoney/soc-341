@@ -1,10 +1,10 @@
 ---
-title: Format
+title: Databases
 nav: true
 ---
 Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
 
-# Part Two: Format and Sort Data
+# Part Two: Search Library Databases
 
 After we've organized our spreadsheet, we can work on formatting our data.
 
