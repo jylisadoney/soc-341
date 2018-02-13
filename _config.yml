@@ -8,10 +8,10 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # Site settings
-title: "Introduction to Excel: Tips, Tricks, and Strategies"
+title: "Sociology 341 Library Session"
 # description and keywords for meta tags
-description: "Learn the basics of Excel and time saving strategies"
-keywords: "excel, introduction, workshops"
+description: "Learn how to search in STS journals and library databases"
+keywords: "library instruction, search strategies, citation chaining"
 
 # author settings for cc-by
 author: Jylisa Doney
@@ -19,7 +19,7 @@ pub_year: 2018
 github_username: jylisadoney
 
 # add the full url for the github repository
-repo: "https://github.com/jylisadoney/intro-excel"
+repo: "https://github.com/jylisadoney/soc-341"
 
 # site urls
 # add the url for the domain,
@@ -27,7 +27,7 @@ repo: "https://github.com/jylisadoney/intro-excel"
 url: https://jylisadoney.github.io
 # add subsection of the domain,
 # on gh-pages this is the name of the repository
-baseurl: /intro-excel
+baseurl: /soc-341
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
