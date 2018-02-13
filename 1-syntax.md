@@ -1,10 +1,10 @@
 ---
-title: Intro
+title: Syntax
 nav: true
 ---
 Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
 
-# Introduction to Key Terminology
+# Search Syntax
 
 Learning Excel is kind of like learning a new language.
 
