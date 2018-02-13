@@ -1,10 +1,10 @@
 ---
-title: Organize
+title: Journals
 nav: true
 ---
 Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
 
-# Part One: Organize Spreadsheets
+# Part One: Search in STS Journals
 
 When working in Excel workbooks, we often need to organize our sheet to make the data readable and visually appealing.
 
