@@ -8,7 +8,7 @@ table, th, td { border: 1px solid black; }
 </style>
 
 | Operator | Description | Example |
-| -------- | ----------- | ------- |
+| ----------------- | ----------- | ------- |
 | AND | Each result contains all search terms | public AND vaccines |
 | OR | Each result contains at least one search term | vaccines OR immunizations |
 | (Parentheses) | Groups and combines terms | (vaccines OR immunizations) AND media |
