@@ -4,8 +4,6 @@ Jekyll repository for the "Sociology 341 Library Session (Spring 2018)" library 
 
 <link to repository>
 
-Abstract:
-
 This library session will teach you how to:
 - search in STS journals and library databases
 - create and modify your search strategies
