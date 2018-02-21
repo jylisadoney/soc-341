@@ -4,6 +4,7 @@ nav: true
 ---
 # Search Syntax
 
+
 Operator | Description | Example
 -------- | ----------- | -------
 AND | Each result contains all search terms | public AND vaccines
