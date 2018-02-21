@@ -2,59 +2,35 @@
 title: Databases
 nav: true
 ---
-Please download the <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
-
 # Part Two: Search Library Databases
+Databases can be helpful places to search as they include peer-reviewed articles from multiple journals.
 
-After we've organized our spreadsheet, we can work on formatting our data.
+First, we need to find the database we are interested in.
+* Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
+* Click on `Articles & Databases` below the search box
+* On the new page:
+  * Option 1: Click on `View our Databases A-Z list`
+  * Option 2: Click a `Databases by Subject` link
+    * For this example, we are going to click `Sociology/Criminology`
+* Scroll to and click on the database you are interested in
+* Enter your NetID if prompted 
 
-## Format dates
-In Excel, dates are easier to organize and sort when they are represented numerically.
-
-Let's fix our `Hire Date` column to make it more readable.
-* Left click on `Column E`
-* Navigate to the `Home` tab and the `Number` section
-* Left click on the `Number Format Icon`
-* Left click on `Date` under Category
-* Scroll down and left click on `3/14/2012`
-* Click `OK`
-
-We can now see that our `Hire Date` column is better organized and our dates are represented by numbers.
-
-## Format currency
-We can also format our `Sales Q1` and `Sales Q2` columns so that the data is displayed as Currency.
-
-To do this:
-* Left click on `Column C` and drag to highlight `Column D`
-* Navigate to the `Home` tab and the `Number` section
-* Left click on the `Drop-Down` box
-* Left click on `Currency`
-
-## Sort data
-Now let’s say we want to organize our sheet based on when an employee joined the company.
-
-To do this:
-* Highlight all of the data
-  * Option 1: Left click on `Cell A1` and drag
-  * Option 2: Hold down `Ctrl A` on your keyboard
-* Navigate to the `Data` tab and the `Sort & Filter` section
-* Left click on `Sort`
-* Check the ‘My data has headers’ box
-* In the Sort by drop-down box, left click on `Hire Date`
-  * Set the sort On drop-down box to `Values`
-  * Set the order drop-down box to `Oldest to Newest`
-* Left click on `OK`
-
-Now the data in our sheet is sorted based on Hire Date.
-
-# More Help
-
-## Format data
-Excel includes numerous ways to `format data`. To learn more about them, navigate to the `Home` tab and the `Numbers` section. 
-
-You can also visit <a href="https://support.office.com/en-us/article/enter-and-format-data-fef13169-0a84-4b92-a5ab-d856b0d7c1f7?ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Format_data" target="_blank">Microsoft's Enter and Format Data website</a>.
-
-## Sort data
-To learn more about other ways to `sort data`, navigate to the `Data` tab and the `Sort & Filter` section.
-
-You can also visit <a href=" https://support.office.com/en-us/article/import-and-analyze-data-ccd3c4a6-272f-4c97-afbb-d3f27407fcde?ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Sort_and_filter" target="_blank">Microsoft's Import and Analyze Data website</a>.
+Now that we selected a database, we can search within it.
+* Type your keywords in the search box
+  * Example: vaccines AND opinions AND trust
+    * Visit the <a href=" " target="_blank">Search Syntax</a> tab to learn more about `AND` and other ways to structure your search
+* Hit `Enter` on your keyboard, click `Search`, etc.
+* On the results page, the most useful limiters are:
+  * Peer reviewed
+  * Full text
+  * Source type
+  * Publication date
+* Browse the results and click on an article you are interested in
+  * Read the `Abstract/Details
+  * Identify useful `subject headings`
+    * `Subject headings` are the terms databases use to describe specific concepts
+	  * Adding `subject heading` terms to your search can be very helpful
+* Access the full-text of the article
+  * Read the article online or download the PDF
+  * Click the `Find It` icon to check for full-text and follow links
+    * If we don't have the full-text, request it for **free** via <a href ="https://www.lib.uidaho.edu/services/ill/" target="_blank">Interlibrary Loan"
