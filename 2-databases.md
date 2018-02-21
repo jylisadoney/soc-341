@@ -18,7 +18,7 @@ First, we need to find the database we are interested in.
 Now that we selected a database, we can search within it.
 * Type your keywords in the search box
   * Example: vaccines AND opinions AND trust
-    * Visit the <a href=" " target="_blank">Search Syntax</a> tab to learn more about `AND` and other ways to structure your search
+    * Visit the <a href="https://jylisadoney.github.io/soc-341/4-syntax.html" target="_blank">Search Syntax</a> tab to learn more about `AND` and other ways to structure your search
 * Hit `Enter` on your keyboard, click `Search`, etc.
 * On the results page, the most useful limiters are:
   * Peer reviewed

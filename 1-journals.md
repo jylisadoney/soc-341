@@ -19,7 +19,7 @@ First, we need to find the journal we are interested in.
 Now that we found the journal, we can search within it.
 * Type your keywords in the search box
   * Example: vaccines AND opinions AND trust
-    * Visit the <a href=" " target="_blank">Search Syntax</a> tab to learn more about `AND` and other ways to structure your search
+    * Visit the <a href="https://jylisadoney.github.io/soc-341/4-syntax.html" target="_blank">Search Syntax</a> tab to learn more about `AND` and other ways to structure your search
 	* Make sure you search in only `This Journal` instead of `All Journals`
 * Hit `Enter` on your keyboard, click `Search`, etc.
 Browse the results and click on an article you are interested in
