@@ -16,6 +16,10 @@ nav: true
 
 Combine search syntax operators: `(vaccin* OR immuniz*) AND (opinion* OR perception*) AND media`
 
+<style>
+table, th, td { border: 1px solid black; }
+</style>
+
 <table style="width:100%">
 <tr>
 <th>Operator</th>
