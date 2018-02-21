@@ -16,4 +16,5 @@ table, th, td { border: 1px solid black; }
 | "Quotation marks" | Results contain exact phrases | "public perception" |
 | Asterisk * | Enter the root of a search term and replace the ending with an * | vaccin* -- Finds: vaccine, vaccines, vaccination, etc. |
 
-Combine search syntax operators: `(vaccin* OR immuniz*) AND (opinion* OR perception*) AND media`
+Combine search syntax operators: 
+`(vaccin* OR immuniz*) AND (opinion* OR perception*) AND media`
