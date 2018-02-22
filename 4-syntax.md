@@ -4,6 +4,15 @@ nav: true
 ---
 # Search Syntax
 
+table { 
+border-collapse: collapse;
+width: 100%;
+}
+table, th, td {
+border: 1px solid black;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+
 Operator | Description | Example 
 ---------| ----------- | -------
 AND | Each result contains all search terms | public AND vaccines
