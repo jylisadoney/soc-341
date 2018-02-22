@@ -34,4 +34,4 @@ You can even search within these citing articles.
 * Click on search or the magnifying glass
 
 You will now see articles that include specific keywords AND cited the initial article you searched for.
-![image](U:\GitHub\Git\soc-341\images\Lib_Journals_Search.jpg)
+![image](U:/GitHub/Git/soc-341/images/Lib_Journals_Search.jpg)
