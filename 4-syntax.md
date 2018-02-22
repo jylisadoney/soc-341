@@ -4,6 +4,7 @@ nav: true
 ---
 # Search Syntax
 
+<style>
 table { 
 border-collapse: collapse;
 width: 100%;
@@ -12,6 +13,8 @@ table, th, td {
 border: 1px solid black;
 }
 tr:nth-child(even) {background-color: #f2f2f2;}
+</style>
+</head>
 
 Operator | Description | Example 
 ---------| ----------- | -------
