@@ -33,4 +33,24 @@ You can even search within these citing articles.
   * Example: vaccines
 * Click on search or the magnifying glass
 
-You will now see articles that include specific keywords AND cited the initial article you searched for.
+You will now see articles that include specific keywords **and** cited the initial article you searched for.
+
+## Set University of Idaho full-text links in Google Scholar
+* In Google Scholar, click on the **triple bar icon**
+* Click on `Settings`
+* Under Search Results, click on `Library links`
+* Type `University of Idaho` in the search box
+* Click on search or the magnifying glass
+* Check the box for `University of Idaho - Univ of Idaho - Get it`
+* Click on Save
+
+Now when you search in Google Scholar, you will see `Univ of Idaho - Get it` links.
+
+## Access the full-text of articles in Google Scholar
+* Click the `Univ of Idaho - Get it` link
+* Under `View It`, click the link that provides access to the article
+  * If there are no links under `View It`, request the article for **free** via <a href ="https://www.lib.uidaho.edu/services/ill/" target="_blank">Interlibrary Loan"
+* Enter your Vandal NetID if prompted
+* Get the full-text
+  * Option 1: You will be automatically linked to the article you need
+  * Option 2: You will be linked to the journal's homepage and will need to browse the year, volume, and issue to find the article you need

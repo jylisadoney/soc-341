@@ -6,7 +6,7 @@ nav: true
 
 When doing research, it can often be helpful to start your search within specific journals that are related to your topic or discipline.
 
-First, we need to find the journal we are interested in.
+## Find a journal
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
 * Click on `Journals` below the search box
 * On the new page, type the `journal name` in the search box
@@ -16,6 +16,7 @@ First, we need to find the journal we are interested in.
 * Under `View It`, click the link that provides access to either `current` or historic` volumes/issues
 * Enter your Vandal NetID if prompted 
 
+## Search in a journal
 Now that we found the journal, we can search within it.
 * Type your keywords in the search box
   * Example: vaccines AND opinions AND trust
