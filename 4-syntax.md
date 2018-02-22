@@ -4,9 +4,7 @@ nav: true
 ---
 # Search Syntax
 
-The operators discussed on this page can be used when searching in most journals and library databases.
-
-Use the operators to combine your keywords and find articles related to your topic.
+Use the operators below to combine your keywords in journal/database search boxes.
 
 <style>
 table, th, td { 
