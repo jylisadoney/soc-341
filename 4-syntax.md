@@ -6,6 +6,8 @@ nav: true
 
 The operators discussed on this page can be used when searching in most journals and library databases.
 
+Use the operators to combine your keywords and find articles related to your topic.
+
 <style>
 table, th, td { 
 border: 1px solid black;
