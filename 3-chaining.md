@@ -23,6 +23,7 @@ This process is relatively straightforward:
 `Forward citation chaining` refers to identifying articles that have cited another article since it was published.
 * Visit <a href ="https://scholar.google.com/" target="_blank">Google Scholar</a>
 * Copy and paste or type the article title in the search box
+  * Example: Race and trust in the health care system
 * Click on search or the magnifying glass
 * On the results page, click `Cited by...`
 
@@ -31,6 +32,8 @@ You will now see articles that cited, in their own reference lists, the initial 
 You can even search within these citing articles.
 * Click to check the `Search within citing articles box`
 * Type your keywords in the search box
+  * Example: vaccines
 * Click on search or the magnifying glass
 
 You will now see articles that include specific keywords AND cited the initial article you searched for.
+{% include figure.html file="LibHomepage_Databases.jpg" alt="Excel workbook with terminology labels" caption="Excel Spreadsheet Terminology" %}
