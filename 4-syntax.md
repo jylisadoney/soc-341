@@ -4,6 +4,8 @@ nav: true
 ---
 # Search Syntax
 
+The operators discussed on this page can be used when searching in most journals and library databases.
+
 <style>
 table, th, td { 
 border: 1px solid black;
