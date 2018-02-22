@@ -5,16 +5,16 @@ nav: true
 # Search Syntax
 
 <style>
-table { 
+table, th, td { 
+border: 1px solid black;
 border-collapse: collapse;
 width: 100%;
 }
-table, th, td {
-border: 1px solid black;
+th, td {
+padding: 5px;
 }
 tr:nth-child(even) {background-color: #f2f2f2;}
 </style>
-</head>
 
 Operator | Description | Example 
 ---------| ----------- | -------
