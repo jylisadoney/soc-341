@@ -8,6 +8,7 @@ When doing research, it can often be helpful to start your search within specifi
 
 First, we need to find the journal we are interested in.
 * Visit the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library website</a>
+{% include figure.html file="LibHomepage_Journals.jpg" alt="Library homepage - Journals option"%}
 * Click on `Journals` below the search box
 * On the new page, type the `journal name` in the search box
   * Example: Public Understanding of Science
