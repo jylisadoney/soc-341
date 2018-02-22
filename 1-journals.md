@@ -19,11 +19,11 @@ When doing research, it can often be helpful to start your search within specifi
 ## Search in a journal
 * Type your `keywords` into the search box
   * Example: vaccines AND opinions AND trust
-    * Visit the <a href="https://jylisadoney.github.io/soc-341/4-syntax.html" target="_blank">Search Syntax</a> tab to learn more about `AND`
+    * Visit the <a href="https://jylisadoney.github.io/soc-341/4-syntax.html" target="_blank">Search Syntax tab</a> to learn more about `AND`
 * If prompted, select the option to search in `This Journal` only
 * Click on search or hit enter on your keyboard
 * Browse the results 
 * Click on an article you are interested in
 * Read the article online or download the PDF  
 
-If we don't have the full-text of an article you need, request it for **free** via <a href ="https://www.lib.uidaho.edu/services/ill/" target="_blank">Interlibrary Loan</a>
+If we don't have the full-text of an article you need, request it for **free** via <a href ="https://www.lib.uidaho.edu/services/ill/" target="_blank">Interlibrary Loan</a>.
