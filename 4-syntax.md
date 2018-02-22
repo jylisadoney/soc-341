@@ -24,6 +24,7 @@ NOT | Results do not contain the specified terms | vaccines NOT autism
 "Quotation marks" | Results contain exact phrases | "public perception"
 Asterisk (*) | Enter the root of a search term and replace the ending with an (*) | vaccin* -- Finds: vaccine, vaccines, vaccination, etc.
 
-
+<br>
 Combine search syntax operators:
+<br>
 `(vaccin* OR immuniz*) AND (opinion* OR perception*) AND media`
