@@ -35,4 +35,5 @@ Now that we selected a database, we can search within it.
   * Click the `Find It` icon to check for full-text and follow links
     * If we don't have the full-text, request it for **free** via <a href ="https://www.lib.uidaho.edu/services/ill/" target="_blank">Interlibrary Loan"
 
+<img source="images/LibHomepage_Databases_SocAbs_Results.jpg" alt"Sociological Abstracts search results page">
 {% include figure.html file="LibHomepage_Databases_SocAbs_Results.jpg" alt="Sociological Abstracts search results page"  width="50%" %}
