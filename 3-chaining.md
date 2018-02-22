@@ -11,8 +11,6 @@ When using `citation chaining`, you can find historic, current, and related rese
 ## Backward citation chaining
 
 `Backward citation chaining` refers to using the reference list from a relevant source to discover additional related sources.
-
-This process is relatively straightforward:
 * When reading a source (article, book, etc.), make notes of cited sources related to your topic
 * Find the sources in the reference list, footnotes, endnotes, etc.
 * Find the full-text of the source
@@ -36,4 +34,4 @@ You can even search within these citing articles.
 * Click on search or the magnifying glass
 
 You will now see articles that include specific keywords AND cited the initial article you searched for.
-{% include figure.html file="LibHomepage_Databases.jpg" alt="Excel workbook with terminology labels" caption="Excel Spreadsheet Terminology" %}
+![image](U:\GitHub\Git\soc-341\images\Lib_Journals_Search.jpg)
