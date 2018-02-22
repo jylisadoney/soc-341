@@ -16,5 +16,6 @@ NOT               | Results do not contain the specified terms | vaccines NOT au
 "Quotation marks" | Results contain exact phrases | "public perception"
 Asterisk *        | Enter the root of a search term and replace the ending with an * | vaccin* -- Finds: vaccine, vaccines, vaccination, etc.
 
+<br>
 Combine search syntax operators: 
 `(vaccin* OR immuniz*) AND (opinion* OR perception*) AND media`
