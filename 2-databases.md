@@ -13,7 +13,7 @@ First, we need to find the database we are interested in.
   * Option 2: Click a `Databases by Subject` link
     * For this example, we are going to click `Sociology/Criminology`
 * Scroll to and click on the database you are interested in
-* Enter your NetID if prompted 
+* Enter your Vandal NetID if prompted 
 
 Now that we selected a database, we can search within it.
 * Type your keywords in the search box

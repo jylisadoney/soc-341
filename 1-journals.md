@@ -14,7 +14,7 @@ First, we need to find the journal we are interested in.
 * Click `Go` or hit `Enter` on your keyboard
 * Click the `title of the result` that provides `Online access`
 * Under `View It`, click the link that provides access to either `current` or historic` volumes/issues
-* Enter your NetID if prompted 
+* Enter your Vandal NetID if prompted 
 
 Now that we found the journal, we can search within it.
 * Type your keywords in the search box
