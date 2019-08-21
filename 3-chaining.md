@@ -14,7 +14,7 @@ When using `citation chaining`, you can find historic, current, and related rese
 * When reading a source (article, book, etc.), make notes of cited sources related to your topic
 * Find the sources in the reference list, footnotes, endnotes, etc.
 * Find the full-text of the source
-  * Journal article: Follow the <a href="https://jylisadoney.github.io/soc-341/1-journals.html" target="_blank">instructions</a> on searching in specific journals
+  * Journal article: Follow the <a href="https://jylisadoney.github.io/soc-341/1-journals.html" target="_blank">instructions</a> for searching in specific journals
   * Book/book chapter: Search the <a href ="https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=UID&vid=UID&tab=ui_summit&search_scope=ui_alma_summit&indx=1&bulkSize=10&dym=true&highlight=true&displayField=all" target="_blank">library catalog </a>to see if we have access
 
 ## Forward citation chaining in Google Scholar
