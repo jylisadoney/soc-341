@@ -4,7 +4,7 @@ nav: true
 ---
 # Search Syntax
 
-Use the operators below to combine your keywords in journal/database search boxes.
+Use the **search strategies** below to combine your keywords in journal/database search boxes.
 
 <style>
 table, th, td { 
