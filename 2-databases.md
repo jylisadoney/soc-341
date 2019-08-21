@@ -39,6 +39,8 @@ On the results page, you can limit your results by:
 
 ## Access the full-text
 * Read the article online or download the PDF
+
+If necessary:
 * Click the `Find It` icon to check for full-text
 * Under `View It`, click the link that provides access to the article
   * If there are no links under `View It`, request the article for **free** via <a href ="https://www.lib.uidaho.edu/services/ill/" target="_blank">Interlibrary Loan</a>
