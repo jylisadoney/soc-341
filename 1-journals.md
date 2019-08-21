@@ -2,7 +2,7 @@
 title: Journals
 nav: true
 ---
-# Part One: Search in Specific Journals
+# Search within specific journals
 
 When doing research, it can often be helpful to start your search within specific journals that are related to your topic or discipline.
 
@@ -16,7 +16,7 @@ When doing research, it can often be helpful to start your search within specifi
 * Under `View It`, click the link that provides the access you need (current/historic articles)
 * Enter your `Vandal NetID` if prompted 
 
-## Search in a journal
+## Search within a journal
 * Type your `keywords` into the search box
   * Example: vaccines AND opinions AND trust
     * Visit the <a href="https://jylisadoney.github.io/soc-341/4-syntax.html" target="_blank">Search Syntax tab</a> to learn more about `AND`
