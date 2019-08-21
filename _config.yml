@@ -8,7 +8,7 @@
 # - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
 
 # Site settings
-title: "SOC 341 library session (spring 2018)"
+title: "SOC 341 library session"
 # description and keywords for meta tags
 description: "Learn how to search in STS journals and library databases"
 keywords: "library instruction, search strategies, citation chaining"
