@@ -1,6 +1,6 @@
-# Sociology 341 Library Session (Spring 2018)
+# Sociology 341 library session (spring 2018)
 
-Jekyll repository for the "Sociology 341 Library Session (Spring 2018)" at the University of Idaho Library.
+Jekyll repository for the "SOC 341 library session (spring 2018)" at the University of Idaho Library.
 
 <link to repository>
 
