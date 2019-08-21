@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-# Sociology 341 Library Session (Spring 2018)
+# Sociology 341 library session (spring 2018)
 
 This library session will teach you how to:
 - search in STS journals and library databases
